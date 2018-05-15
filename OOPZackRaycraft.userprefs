@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{45380D44-462B-43AE-81F9-C6CED294C953}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOPZackRaycraft Status">
+    <Files>
+      <File FileName="OOPZackRaycraft/Program.cs" Line="35" Column="1" />
+      <File FileName="OOPZackRaycraft/Car.cs" Line="13" Column="38" />
+      <File FileName="OOPZackRaycraft Status" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOPZackRaycraft" expanded="True">
+            <Node name="OOPZackRaycraft" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="OOPZackRaycraft" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OOPZackRaycraft PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
